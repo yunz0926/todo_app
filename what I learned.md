@@ -2,13 +2,14 @@ __input 요소의 placeholder__
 
  	이 속성은 textarea 요소에 알맞은 힌트를 제공하는 목적으로 사용됨.
 
-__<button type = "button | submit | reset">__
+__button 태그의 type 속성__
 
+	<button type = "button | submit | reset">
 	button - 해당 버튼이 클릭할 수 있는 버튼(clickable button)임을 명시함. 
 	submit - 해당 버튼이 폼 데이터(form data)를 제출하는 제출 버튼(submit button)임을 명시함.
 	reset - 해당 버튼이 폼 데이터를 초기값으로 리셋하는 리셋 버튼(reset button)임을 명시함.
 	
-__<form> 태그__
+__form 태그__
 
 	사용자로부터 입력을 받을 수 있는 HTML 입력폼(form)을 정의할 때 사용됨.
 	
